@@ -5,6 +5,7 @@ This example uses npm to build a custom library that will be inserted to be used
 ## Set up
 
 1. Ensure node and npm are installed
+2. Set up the [V8JS extension](https://github.com/phpv8/v8js) for PHP. [Blog post with instructions](https://labs.chiedo.com/blog/using-v8js-to-render-javascript-on-a-php-server/)
 2. `npm install`
 3. `npm run make`
 
