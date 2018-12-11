@@ -10,3 +10,7 @@ This example uses npm to build a custom library that will be inserted to be used
 3. `npm run make`
 
 This will create several files in the `build/` directory. `bundle-react.js` is what will be passed into the `ReactJS` constructor as `libsrc`. It exposes 3 globals: `React`, `ReactDOM`, and `ReactDOMServer`.
+
+## Credits
+
+This is a slightly modified version of the example created by Facebook [here](https://github.com/reactjs/react-php-v8js/tree/master/example)
